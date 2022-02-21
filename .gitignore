@@ -1,0 +1,6 @@
+# logs
+logs
+*.log
+
+
+*private.xml
